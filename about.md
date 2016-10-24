@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Read!
+title: Read
 ---
 
 <p class="message">
